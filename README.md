@@ -20,7 +20,7 @@ It follows an overview on courses which are typically optional and can be choose
 
 | Course Topic 	| Authors 	| Materials 	| License 	| Language 	|
 |---	|---	|---	|---	|---	|
-| 	| 	| 	| 	| 	|
+| [Introductory Course on Python](https://github.com/annalenalamprecht/CoTaPP)	| Anna-Lena Lamprecht et al.	| Jupiter notebooks, PDF slides, MD files, project assignments 	| CC-BY	| English	|
 
 ## Contact
 
