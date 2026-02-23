@@ -20,7 +20,9 @@ It follows an overview on courses which are typically optional and can be choose
 
 | Course Topic 	| Authors 	| Materials 	| License 	| Language 	|
 |---	|---	|---	|---	|---	|
-| [Course on Software Product Lines](https://github.com/TUBS-ISF/Course-on-Software-Product-Lines)	| Thomas Thüm, Timo Kehrer, Elias Kuiter et al.	| LaTeX slides, LaTeX exercises, recordings on Youtube | CC-BY-SA-4.0	| English	|
+| [The Debugging Book](https://www.debuggingbook.org/)	| Andreas Zeller | Jupyter notebooks, slides, source code, Youtube videos | CC-BY-NC-SA-4.0 (code under MIT license) | English	|
+| [The Fuzzing Book](https://www.fuzzingbook.org/)	| Andreas Zeller, Rahul Gopinath, Marcel Böhme, Gordon Fraser, and Christian Holler	| Jupyter notebooks, slides, source code, Youtube videos | CC-BY-NC-SA-4.0 (code under MIT license) | English	|
+| [Course on Software Product Lines](https://github.com/TUBS-ISF/Course-on-Software-Product-Lines)	| Thomas Thüm, Timo Kehrer, Elias Kuiter et al.	| LaTeX slides, LaTeX exercises, Youtube videos | CC-BY-SA-4.0	| English	|
 
 ## Courses Related to Software Engineering
 
@@ -28,7 +30,7 @@ The are many areas, such as programming, which are very related to software engi
 
 | Course Topic 	| Authors 	| Materials 	| License 	| Language 	|
 |---	|---	|---	|---	|---	|
-| [Introductory Course on Python](https://github.com/annalenalamprecht/CoTaPP)	| Anna-Lena Lamprecht et al.	| Jupiter notebooks, PDF slides, MD files, project assignments 	| CC-BY-4.0	| English	|
+| [Introductory Course on Python](https://github.com/annalenalamprecht/CoTaPP)	| Anna-Lena Lamprecht et al.	| Jupyter notebooks, PDF slides, MD files, project assignments 	| CC-BY-4.0	| English	|
 
 ## Contact
 
