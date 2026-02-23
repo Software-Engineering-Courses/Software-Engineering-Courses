@@ -12,7 +12,7 @@ It follows an overview on courses which are typically obligatory in computer sci
 
 | Course Topic 	| Authors 	| Materials 	| License 	| Language 	|
 |---	|---	|---	|---	|---	|
-| 	| 	| 	| 	| 	|
+| [Introductory/Advanced Course on Software Engineering](https://github.com/TUBS-ISF/Course-on-Software-Engineering)	| Thomas Thüm et al.	| LaTeX slides, recordings on Youtube | CC-BY-SA-4.0	| English	|
 
 ## Specialized Courses on Software Engineering
 
@@ -20,9 +20,17 @@ It follows an overview on courses which are typically optional and can be choose
 
 | Course Topic 	| Authors 	| Materials 	| License 	| Language 	|
 |---	|---	|---	|---	|---	|
-| [Introductory Course on Python](https://github.com/annalenalamprecht/CoTaPP)	| Anna-Lena Lamprecht et al.	| Jupiter notebooks, PDF slides, MD files, project assignments 	| CC-BY	| English	|
+| [Course on Software Product Lines](https://github.com/TUBS-ISF/Course-on-Software-Product-Lines)	| Thomas Thüm, Timo Kehrer, Elias Kuiter et al.	| LaTeX slides, LaTeX exercises, recordings on Youtube | CC-BY-SA-4.0	| English	|
+
+## Courses Related to Software Engineering
+
+The are many areas, such as programming, which are very related to software engineering. We also aim to collect related courses, as those topics are often taught by software engineers, too.
+
+| Course Topic 	| Authors 	| Materials 	| License 	| Language 	|
+|---	|---	|---	|---	|---	|
+| [Introductory Course on Python](https://github.com/annalenalamprecht/CoTaPP)	| Anna-Lena Lamprecht et al.	| Jupiter notebooks, PDF slides, MD files, project assignments 	| CC-BY-4.0	| English	|
 
 ## Contact
 
-This repository is maintained by [Thomas Thüm](https://www.uni-ulm.de/en/in/sp/team/thuem/). Feel free to [create an issue](https://github.com/Software-Engineering-Courses/Software-Engineering-Courses/issues) or get in [contact via email](mailto:thomas.thuem@uni-ulm.de) if you find errors in the above data or have further pointers on open courses.
+This repository is maintained by [Thomas Thüm](https://www.uni-ulm.de/en/in/sp/team/thuem/). Feel free to [create an issue](https://github.com/Software-Engineering-Courses/Software-Engineering-Courses/issues) or get in [contact via email](mailto:thomas.thuem@tu-braunschweig.de) if you find errors in the above data or have further pointers on open courses.
 
